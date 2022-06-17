@@ -1,0 +1,10 @@
+[
+  {
+    "package": "chromatographR",
+    "oncran": true
+  },
+  {
+    "package": "chromConverter",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "chromatographR"]
+	path = chromatographR
+	url = https://github.com/ethanbass/chromatographr
+	shallow = true
+	registered = true
+[submodule "chromConverter"]
+	path = chromConverter
+	url = https://github.com/ethanbass/chromconverter
+	shallow = true
+	registered = true
