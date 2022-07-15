@@ -13,3 +13,8 @@
 	url = https://github.com/ethanbass/chromconverter
 	shallow = true
 	registered = true
+[submodule "VPdtw"]
+	path = VPdtw
+	url = https://github.com/ethanbass/vpdtw
+	shallow = true
+	registered = true

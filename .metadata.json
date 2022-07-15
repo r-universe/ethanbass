@@ -6,5 +6,9 @@
   {
     "package": "chromConverter",
     "oncran": true
+  },
+  {
+    "package": "VPdtw",
+    "oncran": true
   }
 ]
