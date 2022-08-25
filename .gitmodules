@@ -1,20 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ethanbass/universe
 	shallow = true
 	branch = HEAD
 [submodule "chromatographR"]
 	path = chromatographR
-	url = https://github.com/ethanbass/chromatographr
+	url = https://github.com/ethanbass/chromatographR
 	shallow = true
 	registered = true
 [submodule "chromConverter"]
 	path = chromConverter
-	url = https://github.com/ethanbass/chromconverter
+	url = https://github.com/ethanbass/chromConverter
 	shallow = true
 	registered = true
 [submodule "VPdtw"]
 	path = VPdtw
-	url = https://github.com/ethanbass/vpdtw
+	url = https://github.com/ethanbass/VPdtw
+	shallow = true
+	registered = true
+[submodule "entab"]
+	path = entab
+	url = https://github.com/ethanbass/entab/tree/master/entab-r
 	shallow = true
 	registered = true

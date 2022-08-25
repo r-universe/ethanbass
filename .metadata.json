@@ -10,5 +10,8 @@
   {
     "package": "VPdtw",
     "oncran": true
+  },
+  {
+    "package": "entab"
   }
 ]
