@@ -12,6 +12,9 @@
     "oncran": true
   },
   {
+    "package": "ShinyChromViewer"
+  },
+  {
     "package": "entab"
   }
 ]

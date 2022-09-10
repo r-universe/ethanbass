@@ -18,6 +18,11 @@
 	url = https://github.com/ethanbass/VPdtw
 	shallow = true
 	registered = true
+[submodule "ShinyChromViewer"]
+	path = ShinyChromViewer
+	url = https://github.com/ethanbass/ShinyChromViewer
+	shallow = true
+	registered = true
 [submodule "entab"]
 	path = entab
 	url = https://github.com/ethanbass/entab/tree/master/entab-r
