@@ -15,6 +15,9 @@
     "package": "ShinyChromViewer"
   },
   {
+    "package": "zerenebatchR"
+  },
+  {
     "package": "entab"
   }
 ]
