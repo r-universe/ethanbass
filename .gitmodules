@@ -28,6 +28,11 @@
 	url = https://github.com/ethanbass/zerenebatchr
 	shallow = true
 	registered = true
+[submodule "msdialreadr"]
+	path = msdialreadr
+	url = ad
+	shallow = true
+	registered = true
 [submodule "entab"]
 	path = entab
 	url = https://github.com/ethanbass/entab/tree/master/entab-r
