@@ -30,7 +30,7 @@
 	registered = true
 [submodule "msdialreadr"]
 	path = msdialreadr
-	url = ad
+	url = https://github.com/ethanbass/msdialreadr
 	shallow = true
 	registered = true
 [submodule "entab"]
