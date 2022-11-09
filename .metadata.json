@@ -1,7 +1,6 @@
 [
   {
-    "package": "chromatographR",
-    "oncran": true
+    "package": "chromatographR"
   },
   {
     "package": "chromConverter",
