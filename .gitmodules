@@ -23,6 +23,11 @@
 	url = https://github.com/ethanbass/ShinyChromViewer
 	shallow = true
 	registered = true
+[submodule "ggtukey"]
+	path = ggtukey
+	url = https://github.com/ethanbass/ggtukey
+	shallow = true
+	registered = true
 [submodule "zerenebatchR"]
 	path = zerenebatchR
 	url = https://github.com/ethanbass/zerenebatchr
