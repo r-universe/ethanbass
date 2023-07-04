@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ethanbass/universe
-	shallow = true
 	branch = HEAD
 [submodule "chromatographR"]
 	path = chromatographR
 	url = https://github.com/ethanbass/chromatographR
-	shallow = true
-	registered = true
 [submodule "chromConverter"]
 	path = chromConverter
 	url = https://github.com/ethanbass/chromConverter
-	shallow = true
-	registered = true
 [submodule "VPdtw"]
 	path = VPdtw
 	url = https://github.com/ethanbass/VPdtw
-	shallow = true
-	registered = true
 [submodule "ShinyChromViewer"]
 	path = ShinyChromViewer
 	url = https://github.com/ethanbass/ShinyChromViewer
-	shallow = true
-	registered = true
 [submodule "ggtukey"]
 	path = ggtukey
 	url = https://github.com/ethanbass/ggtukey
-	shallow = true
-	registered = true
 [submodule "zerenebatchR"]
 	path = zerenebatchR
 	url = https://github.com/ethanbass/zerenebatchr
-	shallow = true
-	registered = true
 [submodule "msdialreadr"]
 	path = msdialreadr
 	url = https://github.com/ethanbass/msdialreadr
-	shallow = true
-	registered = true
 [submodule "entab"]
 	path = entab
 	url = https://github.com/ethanbass/entab/tree/master/entab-r
-	shallow = true
-	registered = true
