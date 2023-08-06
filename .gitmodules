@@ -2,27 +2,27 @@
 	path = .registry
 	url = https://github.com/ethanbass/universe
 	branch = HEAD
-[submodule "chromatographR"]
-	path = chromatographR
-	url = https://github.com/ethanbass/chromatographR
-[submodule "chromConverter"]
-	path = chromConverter
-	url = https://github.com/ethanbass/chromConverter
-[submodule "VPdtw"]
-	path = VPdtw
-	url = https://github.com/ethanbass/VPdtw
 [submodule "ShinyChromViewer"]
 	path = ShinyChromViewer
 	url = https://github.com/ethanbass/ShinyChromViewer
-[submodule "ggtukey"]
-	path = ggtukey
-	url = https://github.com/ethanbass/ggtukey
-[submodule "zerenebatchR"]
-	path = zerenebatchR
-	url = https://github.com/ethanbass/zerenebatchr
-[submodule "msdialreadr"]
-	path = msdialreadr
-	url = https://github.com/ethanbass/msdialreadr
+[submodule "VPdtw"]
+	path = VPdtw
+	url = https://github.com/ethanbass/VPdtw
+[submodule "chromConverter"]
+	path = chromConverter
+	url = https://github.com/ethanbass/chromConverter
+[submodule "chromatographR"]
+	path = chromatographR
+	url = https://github.com/ethanbass/chromatographR
 [submodule "entab"]
 	path = entab
 	url = https://github.com/ethanbass/entab/tree/master/entab-r
+[submodule "ggtukey"]
+	path = ggtukey
+	url = https://github.com/ethanbass/ggtukey
+[submodule "msdialreadr"]
+	path = msdialreadr
+	url = https://github.com/ethanbass/msdialreadr
+[submodule "zerenebatchR"]
+	path = zerenebatchR
+	url = https://github.com/ethanbass/zerenebatchr
