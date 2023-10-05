@@ -20,9 +20,9 @@
 [submodule "ggtukey"]
 	path = ggtukey
 	url = https://github.com/ethanbass/ggtukey
-[submodule "msdialreadr"]
-	path = msdialreadr
-	url = https://github.com/ethanbass/msdialreadr
+[submodule "mzinspectr"]
+	path = mzinspectr
+	url = https://github.com/ethanbass/mzinspectr
 [submodule "zerenebatchR"]
 	path = zerenebatchR
 	url = https://github.com/ethanbass/zerenebatchr
