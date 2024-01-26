@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ethanbass/universe
+	url = https://github.com/ethanbass/ethanbass.r-universe.dev
 	branch = HEAD
 [submodule "ShinyChromViewer"]
 	path = ShinyChromViewer
