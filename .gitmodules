@@ -16,7 +16,8 @@
 	url = https://github.com/ethanbass/chromatographR
 [submodule "entab"]
 	path = entab
-	url = https://github.com/ethanbass/entab/tree/master/entab-r
+	url = https://github.com/ethanbass/entab
+	subdir = entab-r
 [submodule "ggtukey"]
 	path = ggtukey
 	url = https://github.com/ethanbass/ggtukey
