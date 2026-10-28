@@ -24,6 +24,9 @@
 [submodule "mzinspectr"]
 	path = mzinspectr
 	url = https://github.com/ethanbass/mzinspectr
+[submodule "olereader"]
+	path = olereader
+	url = https://github.com/ethanbass/olereader
 [submodule "r2zotero"]
 	path = r2zotero
 	url = https://github.com/ethanbass/r2zotero
